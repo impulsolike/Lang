@@ -2,7 +2,7 @@
  * Lang
  *
  * Almacena, organiza y recupera textos
- * @author ImpulsoLike <opensource@impulsolike.net>
+ * @author ImpulsoLike <opensource@impulsolike.com>
  * @version 1.0.0
  * @package Lang
  *
